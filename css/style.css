@@ -1,0 +1,83 @@
+/* General style */
+body { 
+    font-family: 'Playfair Display', serif;;
+    background: #fff;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+h2 {
+    text-align: center;
+    margin: 30px;
+}
+
+h4 {
+    margin-bottom: 10px;
+}
+
+header, main p {
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+/* Utilities */
+.container {
+    text-align: center;
+}
+
+/*  Header */
+header .container {
+    background: rgb(245, 245, 245);
+}
+
+header .maps-image {
+    width: 155px;
+    height: 150px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+header img {
+    width: 215px;
+    height: 150px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+/* Main */
+main .container {
+    background: hsl(212, 83%, 55%);
+    color: #fff;
+}
+
+main img {
+    width: 175px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer .container {
+    background: rgb(245, 245, 245);
+}
+
+footer img {
+    width: 190px;
+    height: 180px;
+    padding: 20px;
+    border-radius: 100px;
+    background-color: hsl(212, 83%, 55%);
+}
+
+footer p {
+    font-size: 12px;
+}
+
+hr {
+    margin-bottom: 30px;
+    color: black;
+}
