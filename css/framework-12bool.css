@@ -183,6 +183,10 @@
 }
 
 /* Offset md */
+.offset-md-0 {
+    margin-left: 0;
+}
+
 .offset-md-1 {
     margin-left: calc(100% / 12);
 }
@@ -285,6 +289,10 @@
 }
 
 /* Offset lg */
+.offset-lg-0 {
+    margin-left: 0;
+}
+
 .offset-lg-1 {
     margin-left: calc(100% / 12);
 }
